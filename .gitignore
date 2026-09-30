@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+
+# Generated macOS application bundles
+Codex-API-Switcher-v1.5.1-Source/build/
+
+# Xcode and Swift build output
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
